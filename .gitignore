@@ -1,2 +1,9 @@
 
 .DS_Store
+.idea/.name
+.idea/blade.xml
+.idea/laravel-v5.0-test.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.xml
